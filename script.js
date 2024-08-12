@@ -2,7 +2,6 @@ const list2 = [
   '"Begum sahiba 🖤..."',
   '"Humourrrrrrr 🤥"',
   '"I love you so much muffinnn"',
-  '"Mujhse jyada koi pyaar krskta hai bta?"',
   '"I Love you so much humairaaaa ❤️"',
   `"Hehe"`,
   '"I just wanna see you happy"',
